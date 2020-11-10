@@ -1,3 +1,5 @@
+This is the Readme created by David Pomeroy. This repository is a copy of the grpc-gateway repository v1.14.7. The reason why this was created was to correctly download the grpc-ecosystem/grpc-gateway/protoc-gen-swagger directory for Go by using the go get -u command.
+
 # grpc-gateway
 
 [![release](https://img.shields.io/github/release/grpc-ecosystem/grpc-gateway.svg?style=flat-square)](https://github.com/grpc-ecosystem/grpc-gateway/releases) [![CircleCI](https://img.shields.io/circleci/project/github/grpc-ecosystem/grpc-gateway/master.svg?style=flat-square)](https://circleci.com/gh/grpc-ecosystem/grpc-gateway) [![fuzzit](https://app.fuzzit.dev/badge?org_id=grpc-gateway)](https://app.fuzzit.dev/orgs/grpc-gateway/dashboard) [![coverage](https://img.shields.io/codecov/c/github/grpc-ecosystem/grpc-gateway/master.svg?style=flat-square)](https://codecov.io/gh/grpc-ecosystem/grpc-gateway) [![license](https://img.shields.io/github/license/grpc-ecosystem/grpc-gateway.svg?style=flat-square)](LICENSE.txt)
